@@ -146,8 +146,8 @@ const Screenshots = () => (
     <div className="container mx-auto px-6">
       <div className="text-center mb-12"><h3 className="text-3xl font-bold text-gray-800">Powerful & Intuitive Interface</h3><p className="text-gray-600 mt-2">Designed for ease of use for both tourists and authorities.</p></div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-        <div className="text-center"><h4 className="text-2xl font-semibold text-gray-800 mb-4">Tourist Mobile App</h4><div className="bg-white p-4 rounded-3xl shadow-2xl max-w-sm mx-auto"><div className="aspect-w-9 aspect-h-19 rounded-2xl overflow-hidden bg-gray-200"><img src="https://placehold.co/375x812/E2E8F0/4A5568?text=App+Screenshot" alt="Mobile App Screenshot" className="w-full h-full object-cover" /></div></div></div>
-        <div className="text-center"><h4 className="text-2xl font-semibold text-gray-800 mb-4">Police & Admin Dashboard</h4><div className="bg-white p-4 rounded-xl shadow-2xl"><div className="aspect-w-16 aspect-h-10 rounded-lg overflow-hidden bg-gray-200"><img src="https://placehold.co/1200x750/E2E8F0/4A5568?text=Dashboard+Screenshot" alt="Dashboard Screenshot" className="w-full h-full object-cover" /></div></div></div>
+        <div className="text-center"><h4 className="text-2xl font-semibold text-gray-800 mb-4">Tourist Mobile App</h4><div className="bg-white p-4 rounded-3xl shadow-2xl max-w-sm mx-auto"><div className="aspect-w-9 aspect-h-19 rounded-2xl overflow-hidden bg-gray-200"><img src="/mobiless.png" alt="Mobile App Screenshot" className="w-full h-full object-cover" /></div></div></div>
+        <div className="text-center"><h4 className="text-2xl font-semibold text-gray-800 mb-4">Police & Admin Dashboard</h4><div className="bg-white p-4 rounded-xl shadow-2xl"><div className="aspect-w-16 aspect-h-10 rounded-lg overflow-hidden bg-gray-200"><img src="/dashboardss.png" alt="Dashboard Screenshot" className="w-full h-full object-cover" /></div></div></div>
       </div>
     </div>
   </section>
@@ -159,7 +159,7 @@ const Footer = () => (
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
         <div><h5 className="font-bold text-lg mb-2">SmartSafar</h5><p className="text-gray-400">Your trusted partner in travel safety. A project by Team Suraksha Setu.</p></div>
         <div><h5 className="font-bold text-lg mb-2">Quick Links</h5><ul className="space-y-2"><li><a href="#" className="text-gray-400 hover:text-white">Home</a></li><li><a href="#" className="text-gray-400 hover:text-white">About Us</a></li><li><a href="#" className="text-gray-400 hover:text-white">Features</a></li></ul></div>
-        <div><h5 className="font-bold text-lg mb-2">Contact Us</h5><p className="text-gray-400">123 Safety Lane, New Delhi, India</p><p className="text-gray-400">contact@smartsafar.gov</p><p className="text-gray-400">+91 123 456 7890</p></div>
+        <div><h5 className="font-bold text-lg mb-2">Contact Us</h5><p className="text-gray-400">Charkhamba, Clement Town, Dehradun, India</p><p className="text-gray-400">contact@smartsafar.gov</p></div>
       </div>
       <div className="mt-8 border-t border-gray-700 pt-6 text-center text-gray-500"><p>&copy; {new Date().getFullYear()} SmartSafar Initiative. All Rights Reserved.</p></div>
     </div>
